@@ -1,2 +1,8 @@
 streamlit 
 openai
+Pillow
+pypdf
+langchain-text-splitters
+langchain-openai
+langchain-community
+faiss-cpu
