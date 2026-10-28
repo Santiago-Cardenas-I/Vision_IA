@@ -1,6 +1,7 @@
 import io
 import platform
 import hashlib
+from pypdf import PdfReader
 
 import streamlit as st
 from pypdf import PdfReader
